@@ -1,5 +1,5 @@
 # k8s-status
-Simple Red-Yellow-Green Status based on K8s Depoyment Replicas
+Simple Red-Yellow-Green Status based on k8s Deployments status
 
 # Docker
 https://hub.docker.com/r/hangst/k8s-status
